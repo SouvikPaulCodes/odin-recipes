@@ -1,0 +1,21 @@
+h1 {
+    font-family: "Times New Roman", serif;
+    font-size: 50px;
+    text-align: center;
+    color: yellow;
+}
+
+ul {
+    font-size: 25px;
+}
+
+a, ul {
+    color: white;
+}
+
+body {
+    background-image: url(https://t4.ftcdn.net/jpg/01/98/50/63/240_F_198506301_zS7IDI4YU7kW0zFVagjTwl8AVI7lZvjP.jpg);
+    background-size: 800px 650px;
+}
+
+
