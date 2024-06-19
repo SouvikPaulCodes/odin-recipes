@@ -18,4 +18,13 @@ body {
     background-size: 800px 650px;
 }
 
+li {
+    padding: 10px;
+    margin: 5px;
+}
+
+li a:hover {
+    color: red;
+}
+
 
